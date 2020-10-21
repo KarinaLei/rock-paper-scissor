@@ -131,6 +131,38 @@ body {
 	box-shadow: 0 0 10px #25292b;
 }
 
+.button {
+	text-align: center;
+}
+
+.restart-but {
+	background: #4dcc7d;
+	color: white;
+	padding: 10px 30px;
+	border: none;
+	border-radius: 4px;
+	margin: 30px 0 auto;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.restart-but:hover {
+	cursor: pointer;
+	box-shadow: 0 0 10px #31b43a;
+}
+
+footer {
+	background: white;
+	padding: 10px;
+	position: absolute;
+	width: 100%;
+	bottom: 0;
+}
+
+footer > p {
+	text-align: center;
+}
 
 
 
