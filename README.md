@@ -1,4 +1,4 @@
 # rock-paper-scissor
 Rock paper scissor web game tutorial
 
-Tutorial from freecodecamp
+Extends from tutorial on freecodecamp.org
